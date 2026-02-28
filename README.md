@@ -1,14 +1,49 @@
-<h1 align="center">Merhaba 👋, ben Eren altaş</h1>
-<h3 align=center">Modern web teknolojileri ve veri yönetimi yönetimi .NET ekosistemi ve JavaScript (Node.js/React) kullanarak çözümler üretiryi üretir, bu konuda kendini sürekli geliştiren bir yazılımcıyım.</h3>
+<h1 align="center">Merhaba, Ben Eren Altaş 👋</h1>
+<h3 align="center">Full-Stack Geliştirici | Bilgisayar Programcılığı Öğrencisi | Siber Güvenlik Meraklısı</h3>
 
-- 🔭 Şu anda **Borsa Eğitim Platformu** üzerinde çalışıyorum.
+<p align="center">
+  Modern web teknolojileri, veri yönetimi ve <b>.NET / JavaScript (Node.js/React)</b> ekosistemlerinde ölçeklenebilir çözümler üreten bir yazılım geliştiricisiyim. Kod kalitesine ve profesyonel UI/UX standartlarına önem veriyor, aynı zamanda <b>Web Application Penetration Testing (Web Pentest)</b> alanında kendimi sürekli geliştiriyorum.
+</p>
 
-- 📫 Bana nasıl ulaşırım? **erenaltas48@gmail.com**
+---
 
-<h3 align="left">Benimle iletişime geçin:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/eren altaş" target="blank"><img align=center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt = "eren <a></a></p>
-<
+### 🔭 Üzerinde Çalıştığım Projeler
 
-h3 align="left">Diller ve Araçlar:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a> </p><a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a> </p><a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a> </p>
+- 📈 **Borsa Eğitim Platformu (FinansAkademi):** Kullanıcıların finansal okuryazarlığını artırmayı hedefleyen, dinamik varlık takibi sağlayan portföy ve eğitim sistemi.
+- 🎓 **Unifocus:** YKS, KPSS ve DGS gibi sınavlara hazırlanan öğrenciler için 20'den fazla özellik sunan kapsamlı mobil odaklı proje.
+- 🎁 **Hediyebox:** Yerel zanaatkarlar ve ev yapımı hediyelik üretenler için özel olarak tasarlanmış e-ticaret platformu.
+
+### 🌱 İlgi Alanlarım ve Hedeflerim
+
+- İleri seviye ağ mimarileri (CCNA konseptleri) ve güvenli sistem tasarımı.
+- Temiz, minimalist ve "Soft Premium" tasarım anlayışıyla geliştirilmiş kullanıcı arayüzleri.
+- Yazılım projelerinin fikri mülkiyet, marka ve patent süreçleri.
+
+---
+
+<h3 align="center">💻 Diller ve Teknolojiler</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,bootstrap,tailwind,dotnet,cs,java,mssql,git,figma&theme=light" alt="Eren Altaş Tech Stack" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">📫 Benimle İletişime Geçin</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/eren-altas" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:erenaltas48@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GITHUB_KULLANICI_ADIN&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=333333&icon_color=0077B5" alt="GitHub Stats" />
+</p>
