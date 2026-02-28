@@ -1,17 +1,13 @@
-<h1 align = "center">Merhabalar ben Eren Altaş</h1>
-<h3 align = "center">Modern web teknolojileri ve veri tabanı yönetimi ile .NET ekosistemi ve JavaScript (Node.js/React) kullanarak çözümler üretebilir, bu konuda kendinizi sürekli geliştiren bir yazılımcıyım.</h3>
+<h1 align="center">Merhaba 👋, ben Eren altaş</h1>
+<h3 align=center">Modern web teknolojileri ve veri yönetimi yönetimi .NET ekosistemi ve JavaScript (Node.js/React) kullanarak çözümler üretiryi üretir, bu konuda kendini sürekli geliştiren bir yazılımcıyım.</h3>
 
-- Üzerindeki projelerim **Borsa Eğitim Platformu ** -
+- 🔭 Şu anda **Borsa Eğitim Platformu** üzerinde çalışıyorum.
 
-🌱
+- 📫 Bana nasıl ulaşırım? **erenaltas48@gmail.com**
 
-özgemişim [erenaltas.com](erenaltas.com)
-
-- 📫 e-posta **erenaltas48@gmail.com**
-
-<h3 align="left">Benimle iletişime geç:</h3>
+<h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/eren altaş" target="blank"><img align="center" <a></a></p>
+<a href="https://linkedin.com/in/eren altaş" target="blank"><img align=center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt = "eren <a></a></p>
 <
 
 h3 align="left">Diller ve Araçlar:</h3>
