@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba, Ben Eren Altaş 👋</h1>
+<h1 align="center">Merhaba, Ben Eren Altaş</h1>
 <h3 align="center">Full-Stack Geliştirici | Bilgisayar Programcılığı Öğrencisi | Siber Güvenlik Meraklısı</h3>
 
 <p align="center">
@@ -10,14 +10,14 @@
 ### 🔭 Üzerinde Çalıştığım Projeler
 
 - 📈 **Borsa Eğitim Platformu (FinansAkademi):** Kullanıcıların finansal okuryazarlığını artırmayı hedefleyen, dinamik varlık takibi sağlayan portföy ve eğitim sistemi.
-- 🎓 **Unifocus:** YKS, KPSS ve DGS gibi sınavlara hazırlanan öğrenciler için 20'den fazla özellik sunan kapsamlı mobil odaklı proje.
+- 🎓 **Unifocus:** YKS, KPSS ve DGS gibi sınavlara hazırlanan öğrenciler için 20'den fazla özellik sunan, modern mobil odaklı proje.
 - 🎁 **Hediyebox:** Yerel zanaatkarlar ve ev yapımı hediyelik üretenler için özel olarak tasarlanmış e-ticaret platformu.
 
 ### 🌱 İlgi Alanlarım ve Hedeflerim
 
-- İleri seviye ağ mimarileri (CCNA konseptleri) ve güvenli sistem tasarımı.
+- Finansal piyasalar, borsa ekosistemleri ve finansal teknolojiler (FinTech) üzerine analitik çözümler üretmek.
 - Temiz, minimalist ve "Soft Premium" tasarım anlayışıyla geliştirilmiş kullanıcı arayüzleri.
-- Yazılım projelerinin fikri mülkiyet, marka ve patent süreçleri.
+- Yazılım projelerinin fikri mülkiyet, marka ve patent süreçlerinin yönetimi.
 
 ---
 
@@ -34,7 +34,7 @@
 <h3 align="center">📫 Benimle İletişime Geçin</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/eren-altas" target="_blank">
+  <a href="https://www.linkedin.com/in/eren-alta%C5%9F-00b2ba287/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:erenaltas48@gmail.com">
